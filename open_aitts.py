@@ -1,4 +1,3 @@
-# simple_tts_test.py
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
@@ -6,10 +5,8 @@ from openai import OpenAI
 load_dotenv()
 
 def test_hindi_tts():
-    """Test Hindi TTS directly with OpenAI"""
+    """Test Hindi TTS directly with OpenAI (streams to files)."""
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    
-    # Test all the phrases from your script
     hindi_phrases = [
         "मैं 2 घंटे से ऑनलाइन हूं पर मुझे कोई राइड नहीं मिल रही",
         "ओला कस्टमर सपोर्ट में आपका स्वागत है",
@@ -21,20 +18,20 @@ def test_hindi_tts():
     
     try:
         for i, phrase in enumerate(hindi_phrases):
-            response = client.audio.speech.create(
+            # Use streaming response API to reliably write MP3 files
+            with client.audio.speech.with_streaming_response.create(
                 model="tts-1",
-                voice="nova",
+                voice="alloy",
                 input=phrase
-            )
-            
-            response.stream_to_file(f"hindi_demo_{i+1}.mp3")
-            print(f"✅ Saved: '{phrase}' -> hindi_demo_{i+1}.mp3")
+            ) as response:
+                out_file = f"hindi_demo_{i+1}.mp3"
+                response.stream_to_file(out_file)
+            print(f"Saved: sample {i+1} -> {out_file}")
         
-        print("\n🎧 All audio files generated successfully!")
-        print("Play them to verify Hindi pronunciation quality")
+        print("All audio files generated successfully. Play them to verify.")
         
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
     test_hindi_tts()

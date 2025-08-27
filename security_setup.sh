@@ -1,2 +1,1 @@
-#security key generation
 openssl rand -base64 32 > secret_key.txt

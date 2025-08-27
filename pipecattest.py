@@ -1,4 +1,3 @@
-# pipecattest.py
 import asyncio
 import time
 from pipecat.pipeline.pipeline import Pipeline

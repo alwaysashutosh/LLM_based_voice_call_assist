@@ -1,4 +1,3 @@
-# test_microphone.py
 import pyaudio
 import wave
 
@@ -10,8 +9,6 @@ def test_microphone():
     for i in range(p.get_device_count()):
         info = p.get_device_info_by_index(i)
         print(f"{i}: {info['name']} - {info['maxInputChannels']} input channels")
-    
-    # Try to open microphone stream
     try:
         stream = p.open(format=pyaudio.paInt16,
                        channels=1,

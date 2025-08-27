@@ -1,0 +1,1160 @@
+{
+  "system_info": {
+    "platform": "Windows",
+    "platform_version": "10.0.26100",
+    "python_version": "3.11.1",
+    "timestamp": "2025-08-24T23:10:29.493663"
+  },
+  "permissions": {
+    "status": "accessible",
+    "issues": [],
+    "solutions": []
+  },
+  "devices": [
+    {
+      "index": 0,
+      "name": "Microsoft Sound Mapper - Input",
+      "max_input_channels": 2,
+      "max_output_channels": 0,
+      "default_sample_rate": 44100.0,
+      "working": true,
+      "issues": []
+    },
+    {
+      "index": 1,
+      "name": "Microphone Array (Intel\u00c2\u00ae Smart ",
+      "max_input_channels": 4,
+      "max_output_channels": 0,
+      "default_sample_rate": 44100.0,
+      "working": true,
+      "issues": []
+    },
+    {
+      "index": 2,
+      "name": "Microsoft Sound Mapper - Output",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 3,
+      "name": "Speakers (Realtek(R) Audio)",
+      "max_input_channels": 0,
+      "max_output_channels": 8,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 4,
+      "name": "Primary Sound Capture Driver",
+      "max_input_channels": 2,
+      "max_output_channels": 0,
+      "default_sample_rate": 44100.0,
+      "working": true,
+      "issues": []
+    },
+    {
+      "index": 5,
+      "name": "Microphone Array (Intel\u00c2\u00ae Smart Sound Technology for Digital Microphones)",
+      "max_input_channels": 4,
+      "max_output_channels": 0,
+      "default_sample_rate": 44100.0,
+      "working": true,
+      "issues": []
+    },
+    {
+      "index": 6,
+      "name": "Primary Sound Driver",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 7,
+      "name": "Speakers (Realtek(R) Audio)",
+      "max_input_channels": 0,
+      "max_output_channels": 8,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 8,
+      "name": "Speakers (Realtek(R) Audio)",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 48000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 9,
+      "name": "Microphone Array (Intel\u00c2\u00ae Smart Sound Technology for Digital Microphones)",
+      "max_input_channels": 2,
+      "max_output_channels": 0,
+      "default_sample_rate": 48000.0,
+      "working": true,
+      "issues": []
+    },
+    {
+      "index": 10,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(M3))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 11,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(M3))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 161))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 13,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 161))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 131 Pro))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 15,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 131 Pro))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 17,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 18,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 19,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 20,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 21,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 22,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 131 Elite ANC))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 23,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 131 Elite ANC))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 25,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(JBL T450BT))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 26,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(JBL T450BT))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Boult Audio ProBass))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 28,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Boult Audio ProBass))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(realme Buds T300))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 30,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(realme Buds T300))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 32,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 33,
+      "name": "Output (@System32\\drivers\\bthhfenum.sys,#4;%1 Hands-Free HF Audio%0\r\n;(Nothing Phone (3a)))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 34,
+      "name": "Input (@System32\\drivers\\bthhfenum.sys,#4;%1 Hands-Free HF Audio%0\r\n;(Nothing Phone (3a)))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Boult Audio Airbass))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 36,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Boult Audio Airbass))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 38,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 39,
+      "name": "Input ()",
+      "max_input_channels": 2,
+      "max_output_channels": 0,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "Headphones 1 (Realtek HD Audio 2nd output with SST)",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 41,
+      "name": "Headphones 2 (Realtek HD Audio 2nd output with SST)",
+      "max_input_channels": 0,
+      "max_output_channels": 8,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 42,
+      "name": "PC Speaker (Realtek HD Audio 2nd output with SST)",
+      "max_input_channels": 2,
+      "max_output_channels": 0,
+      "default_sample_rate": 48000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "Speakers 1 (Realtek HD Audio output with SST)",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 44,
+      "name": "Speakers 2 (Realtek HD Audio output with SST)",
+      "max_input_channels": 0,
+      "max_output_channels": 8,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 45,
+      "name": "PC Speaker (Realtek HD Audio output with SST)",
+      "max_input_channels": 2,
+      "max_output_channels": 0,
+      "default_sample_rate": 48000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "Microphone (Realtek HD Audio Mic input)",
+      "max_input_channels": 2,
+      "max_output_channels": 0,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "Stereo Mix (Realtek HD Audio Stereo input)",
+      "max_input_channels": 2,
+      "max_output_channels": 0,
+      "default_sample_rate": 48000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(realme TechLife Buds T100))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 49,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(realme TechLife Buds T100))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 51,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 52,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 121 Pro))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 53,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 121 Pro))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 55,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Fire Pods Ninja G201))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 56,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Fire Pods Ninja G201))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(VP-S05))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 58,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(VP-S05))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 60,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Clavier Fusion))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 61,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Clavier Fusion))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(animesh\u00e2\u20ac\u2122s AirPods Pro))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 16000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 63,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(animesh\u00e2\u20ac\u2122s AirPods Pro))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 16000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 65,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 66,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 67,
+      "name": "Output (@System32\\drivers\\bthhfenum.sys,#4;%1 Hands-Free HF Audio%0\r\n;(Ashutosh's Galaxy M21))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 68,
+      "name": "Input (@System32\\drivers\\bthhfenum.sys,#4;%1 Hands-Free HF Audio%0\r\n;(Ashutosh's Galaxy M21))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 70,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Soundcore R100))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 71,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Soundcore R100))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Boult Audio Airbass))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 73,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Boult Audio Airbass))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Y60))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 75,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Y60))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 77,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 141))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 78,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 141))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 79,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 80,
+      "name": "Microphone Array 1 ()",
+      "max_input_channels": 2,
+      "max_output_channels": 0,
+      "default_sample_rate": 48000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "Microphone Array 2 ()",
+      "max_input_channels": 2,
+      "max_output_channels": 0,
+      "default_sample_rate": 48000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "Microphone Array 3 ()",
+      "max_input_channels": 4,
+      "max_output_channels": 0,
+      "default_sample_rate": 16000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Ws-4000))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 84,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Ws-4000))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 86,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(itel T11))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 87,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(itel T11))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 89,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Buds T110))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 90,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Buds T110))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 92,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Noise Buds VS201))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 93,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Noise Buds VS201))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "Input ()",
+      "max_input_channels": 2,
+      "max_output_channels": 0,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 44100.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 96,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 161))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 97,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Airdopes 161))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(SoundDrum 1))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 99,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(SoundDrum 1))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Boult Audio Airbass))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 101,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Boult Audio Airbass))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 8000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "Headphones ()",
+      "max_input_channels": 0,
+      "max_output_channels": 2,
+      "default_sample_rate": 48000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 103,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Rockerz 330))",
+      "max_input_channels": 0,
+      "max_output_channels": 1,
+      "default_sample_rate": 16000.0,
+      "working": false,
+      "issues": []
+    },
+    {
+      "index": 104,
+      "name": "Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free%0\r\n;(Rockerz 330))",
+      "max_input_channels": 1,
+      "max_output_channels": 0,
+      "default_sample_rate": 16000.0,
+      "working": false,
+      "issues": [
+        "[Errno -9999] Unanticipated host error"
+      ]
+    }
+  ],
+  "stream_test": {
+    "success": true,
+    "frames_captured": 76,
+    "audio_levels": [
+      0.46770717334674267,
+      0.4881406047441659,
+      0.6502703764589004,
+      1.0743820898544427,
+      1.1267347735824966,
+      1.4862652438242643,
+      0.9369790219103094,
+      8.652864861564638,
+      10.232693086988391,
+      0.5994789404140899,
+      0.6067652449671125,
+      0.5879652413195868,
+      0.5555121510822243,
+      0.5650981662507851,
+      0.6651186454310238,
+      43.15890877038019,
+      39.49507979641262,
+      20.65778644058942,
+      37.04985028647214,
+      48.78100976878707,
+      49.176251493352964,
+      7.152701085079678,
+      7.6151319341820995,
+      0.5821230003186612,
+      0.4861359120657514,
+      3.594157585582469,
+      31.586191603293994,
+      57.208764830552845,
+      25.70401309256008,
+      26.60505781919107,
+      26.790947777421014,
+      27.526585160985732,
+      20.79616476059949,
+      45.62312710196989,
+      40.542849631593484,
+      49.95310300672021,
+      46.78605102284761,
+      9.321042642188695,
+      0.6218671481916375,
+      0.4708287241662301,
+      0.480071609241788,
+      0.5019493251315316,
+      0.5,
+      0.4739297152532219,
+      0.5115845482420281,
+      0.5153882032022076,
+      2.931176704840566,
+      14.388750217183562,
+      0.9238590936934051,
+      0.5144399260360728,
+      0.5153882032022076,
+      0.6540140480142609,
+      0.4770105475773046,
+      0.49706167876833957,
+      0.5077524002897476,
+      0.4810876349481454,
+      0.48513045925812576,
+      0.4841229182759271,
+      0.5058254392574577,
+      0.47186465220442186,
+      1.197327753791751,
+      1.637273362178717,
+      0.5058254392574577,
+      0.4739297152532219,
+      0.46034124570800733,
+      0.5019493251315316,
+      0.5009756106837937,
+      18.748489522492207,
+      59.32977718597551,
+      78.64085318117104,
+      37.59700993762669,
+      38.925158557801666,
+      48.06546642341048,
+      72.92252952620335,
+      27.33378389809029,
+      NaN
+    ],
+    "errors": [
+      "Frame capture error: cannot convert float NaN to integer"
+    ],
+    "recommendations": []
+  },
+  "format_test": {
+    "compatible_formats": [
+      "pyaudio.paInt16",
+      "pyaudio.paFloat32"
+    ],
+    "compatible_rates": [
+      8000,
+      16000,
+      22050,
+      44100
+    ],
+    "compatible_channels": [
+      1,
+      2
+    ],
+    "errors": []
+  },
+  "recommendations": [
+    "Windows-specific fixes:",
+    "  1. Check Windows Privacy Settings > Microphone > Allow apps to access microphone",
+    "  2. Ensure microphone is set as default recording device",
+    "  3. Run as administrator if permission issues persist",
+    "  4. Check Windows Audio Troubleshooter",
+    "  5. Update audio drivers from manufacturer website",
+    "",
+    "General troubleshooting:",
+    "  1. Check microphone is not muted (hardware and software)",
+    "  2. Ensure microphone is not being used by other applications",
+    "  3. Test microphone in system sound settings",
+    "  4. Try different USB ports if using USB microphone",
+    "  5. Check microphone gain settings",
+    "  6. Restart audio services",
+    "  7. Update audio drivers",
+    "",
+    "Alternative solutions:",
+    "  1. Use virtual audio cable for testing",
+    "  2. Try different audio libraries (sounddevice, alsaaudio)",
+    "  3. Use web-based audio testing tools",
+    "  4. Consider using Bluetooth microphone as alternative"
+  ]
+}
